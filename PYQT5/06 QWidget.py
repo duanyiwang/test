@@ -42,3 +42,6 @@ if __name__ == "__main__":
     main = Splitter()
     main.show()
     sys.exit(app.exec_())
+
+
+    aaa
