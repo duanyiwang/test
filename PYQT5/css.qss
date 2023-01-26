@@ -1,0 +1,27 @@
+QLabel#1 {
+    font-size:30px;
+    color:gray;
+    border:1px solid gray;
+    border-radius:8px;
+}
+
+QLabel#1[A="error"] {
+
+    color:yellow;
+    border-color:gray;
+
+}
+
+QLabel#1[A="warning"] {
+
+    color:red;
+    border-color:red;
+
+}
+
+QLabel#1[A="out"] {
+
+    color:black;
+    border-color:black;
+
+}
